@@ -1,1 +1,1 @@
-[a link](ChapterInput.ipynb)
+[a link](Python/PracticePython/ChapterInput.ipynb)
